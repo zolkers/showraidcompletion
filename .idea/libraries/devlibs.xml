@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="devlibs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/build/devlibs/zamnclient-1.0.0-sources.jar!/" />
+      <root url="jar://$PROJECT_DIR$/build/devlibs/zamnclient-1.0.0-dev.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
