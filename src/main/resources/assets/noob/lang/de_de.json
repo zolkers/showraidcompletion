@@ -1,0 +1,6 @@
+{
+  "commands.edgnmod.show_raid_completions.header": "Raid vollendungen von : ",
+  "commands.edgnmod.show_raid_completions.entry": "%s%s%s ",
+  "commands.edgnmod.show_raid_completions.total": "GESAMT",
+  "commands.edgnmod.show_raid_completions.times": " male"
+}
