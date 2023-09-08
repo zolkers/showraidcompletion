@@ -21,7 +21,7 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 public class ShowRaidCompletions {
-    private final static String TAG = Formatting.YELLOW + "[" + Formatting.GOLD + "RAID" + Formatting.YELLOW + "] ";
+    private final static String TAG = Formatting.YELLOW + "[" + Formatting.GOLD + "ZAMN" + Formatting.YELLOW + "] ";
 
     public static void register(@NotNull CommandDispatcher<FabricClientCommandSource> dispatcher) {
         LiteralArgumentBuilder<FabricClientCommandSource> edrCommand = LiteralArgumentBuilder.<FabricClientCommandSource>literal("edr")
