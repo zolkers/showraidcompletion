@@ -1,3 +1,3 @@
 # showraidcompletion
-To use the mod : /edr <playername>
+To use the mod : /edr playername
 
